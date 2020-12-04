@@ -18,8 +18,6 @@ Check my website [Website](https://www.facebook.com/stcharles02/)
 
 ---
 
-## My interests:
-
 ![Javascript align="left"](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![Python align="left"](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
