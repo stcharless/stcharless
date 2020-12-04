@@ -6,7 +6,8 @@ I'm passionate about programming and software devlopment', and currently studyin
 
 Check my website [Website](https://www.facebook.com/stcharles02/)
 
-![stcharless github stats align="right"](https://github-readme-stats.vercel.app/api?username=stcharless&show_icons=true&theme=tokyonight)
+---
+### Follow me.
 
 [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stephan-charles/)
 
@@ -15,3 +16,14 @@ Check my website [Website](https://www.facebook.com/stcharles02/)
 [<img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ostcharless/)
 
 [<img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/stcharles02/)
+
+## My interests
+
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+
+
