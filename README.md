@@ -4,8 +4,6 @@
 
 <p align="right">
 I'm passionate about programming and software devlopment', and currently studying Computer Science at Universidade Paulista.
-
-Check my website [Website](https://www.facebook.com/stcharles02/)
 </p>
 
 ---
