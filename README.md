@@ -1,6 +1,4 @@
-<p align="left">
-    <img src="https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif" />
-</p>
+<img align="left" src="https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif"/>
 
 ## Hi, my name is Stephan!
 
