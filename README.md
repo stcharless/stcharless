@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif"/>
 </p>
 
-<p align="right">
+<p align="center">
 I'm passionate about programming and software devlopment', and currently studying Computer Science at Universidade Paulista.
 </p>
 
