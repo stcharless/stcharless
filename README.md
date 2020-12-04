@@ -1,12 +1,20 @@
 <img align="left" src="https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif" />
 
-### Hi, my name is Stephan
-
-:computer: I'm Computer science student at Universidade Paulista
-
-:book: I am currently studying things like python, javascript and java
+*** Hi, my name is Stephan. I'm passionate about programming and software devlopment', and currently studying Computer Science at Universidade Paulista. ***
 
 Check my website [Website](https://www.facebook.com/stcharles02/)
+
+My interests
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/python.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/java.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/git.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/linux.png"></code>
 
 *****
 
