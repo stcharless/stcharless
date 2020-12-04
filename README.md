@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="left" src="https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif" />
+    <img src="https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif" />
 </p>
 
 ### Hi, my name is Stephan!
