@@ -1,15 +1,17 @@
-<p align="center">
+<p align="left">
     <img src="https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif" />
 </p>
 
-### Hi, my name is Stephan!
+<p align="right">
+
+## Hi, my name is Stephan!
 
 I'm passionate about programming and software devlopment', and currently studying Computer Science at Universidade Paulista.
 
 Check my website [Website](https://www.facebook.com/stcharles02/)
 
----
-
+### Follow me
+</p>
 
 [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stephan-charles/)
 
