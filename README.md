@@ -4,7 +4,9 @@
 
 I'm passionate about programming and software devlopment', and currently studying Computer Science at Universidade Paulista.
 
-Check my website [Website](https://www.facebook.com/stcharles02/) <br/> 
+Check my website [Website](https://www.facebook.com/stcharles02/)
+
+![stcharless github stats align="right"](https://github-readme-stats.vercel.app/api?username=stcharless&show_icons=true&theme=tokyonight)
 
 [<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stephan-charles/)
 
