@@ -2,11 +2,11 @@
     <img src="https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif"/>
 </p>
 
-### Hi, my name is Stephan!
-
+<p align="right">
 I'm passionate about programming and software devlopment', and currently studying Computer Science at Universidade Paulista.
 
 Check my website [Website](https://www.facebook.com/stcharles02/)
+</p>
 
 ---
 
