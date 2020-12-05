@@ -3,7 +3,7 @@
 - My name is Stephan, i'm studying Computer Science at Universidade Paulista. And i'm
 passionate about programming and software development.
 
-- :paperclip: Check my website [website](https:/www.stephancharles.dev/)
+- :paperclip: Check my website [website](https://www.stephancharles.dev/)
 
 - :email: Send me an email [email](vianastephan@gmail.com)
 
