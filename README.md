@@ -1,9 +1,7 @@
 ## Hi, there :wave:
 
-- My name is Stephan, i'm studying Computer Science at Universidade Paulista. And i'm
-passionate about programming and software development.
-
-- :paperclip: Check my website [website](https://www.stephancharles.dev/)
+- My name is Stephan, i'm passionate for programming, software development and i'm a enthusiast of
+hacking and security information.
 
 - :email: Send me an email [email](vianastephan@gmail.com)
 
@@ -18,6 +16,5 @@ passionate about programming and software development.
 
 ### My interests:
 
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
